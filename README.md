@@ -14,6 +14,10 @@ App updater for Cordova/PhoneGap
 ### Latest published version on npm (with Cordova CLI >= 5.0.0)
 `cordova plugin add cordova-plugin-app-update`
 
+or this fork that provide internationalization for english and french  
+
+`cordova plugin add https://github.com/EmmanuelSimo/cordova-plugin-app-update.git`
+
 # Usage
  - Simple:
 ```js
