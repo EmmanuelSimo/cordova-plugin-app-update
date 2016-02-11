@@ -8,6 +8,6 @@
     <string name="update_cancel">Effacer</string>
 
     <string name="update_error_title">Erreur</string>
-    <string name="update_error_message">Contrôler les parametre de reseau</string>
+    <string name="update_error_message">Contrôler les parametres de réseau</string>
     <string name="update_error_yes_btn">Ok</string>
 </resources>
