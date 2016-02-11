@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="update_latest">已经是最新版本</string>
-    <string name="update_title">软件更新</string>
-    <string name="update_message">检测到新版本，立即更新吗</string>
-    <string name="update_update_btn">更新</string>
-    <string name="updating">正在更新</string>
-    <string name="update_cancel">取消</string>
+    <string name="update_latest">We have the latest version</string>
+    <string name="update_title">Software update</string>
+    <string name="update_message">Detects the new version, update it now</string>
+    <string name="update_update_btn">Update</string>
+    <string name="updating">Updating</string>
+    <string name="update_cancel">Cancel</string>
 
-    <string name="update_error_title">错误</string>
-    <string name="update_error_message">当前网络不可用，请检查你的网络设置。</string>
-    <string name="update_error_yes_btn">知道了</string>
+    <string name="update_error_title">Error</string>
+    <string name="update_error_message">Check your network settings</string>
+    <string name="update_error_yes_btn">Got it</string>
 </resources>
